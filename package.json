@@ -1,0 +1,23 @@
+{
+  "name": "Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "yt-search": "^2.8.0",
+    "ytdl-core": "^4.8.2"
+  }
+}
